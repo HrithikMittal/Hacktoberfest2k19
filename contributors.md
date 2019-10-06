@@ -1,2 +1,1 @@
-Raghav Jindal
-Sarthak Narang
+Raghav Jindal Sarthak Narang
