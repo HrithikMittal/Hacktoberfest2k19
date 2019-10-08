@@ -20,3 +20,6 @@ git push origin master
 7. Congratulations!! You have successfully created your pull request.
 8. Check your progress here (https://hacktoberfest.digitalocean.com/profile)
 9. Wait for your t-shirt.
+
+Regards,
+Adhikansh Mittal
