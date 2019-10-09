@@ -1,4 +1,5 @@
 # Contributors
+
 <ol>
   <li>Raghav Jindal</li>
   <li>Sarthak Narang</li>
@@ -11,5 +12,3 @@
   <li>Dibyendu Maji</li>
   <li>Khushboo Garg</li>
 </ol>
-     
-
