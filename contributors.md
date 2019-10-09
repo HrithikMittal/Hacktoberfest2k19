@@ -1,2 +1,12 @@
-Raghav Jindal Sarthak Narang Arjun Sanjeev Marreddy sai nikhil reddy Syed Afroz
-Gatuam
+# Contributors
+<ol>
+  <li>Raghav Jindal</li>
+  <li>Sarthak Narang</li>
+  <li>Arjun Sanjeev</li>
+  <li>Marreddy</li>
+  <li>sai nikhil reddy</li>
+  <li>Syed Afroz</li>
+  <li>Gatuam</li>
+</ol>
+     
+
