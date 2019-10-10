@@ -1,4 +1,5 @@
 # Contributors
+
 <ol>
   <li>Raghav Jindal</li>
   <li>Sarthak Narang</li>
@@ -12,5 +13,3 @@
   <li>Khushboo Garg</li>
   <li>Bromfutter</li>
 </ol>
-     
-
