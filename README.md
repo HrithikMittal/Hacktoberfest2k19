@@ -17,9 +17,8 @@ git push origin master
 
 5. Then create your pull request.
 6. Star my [repository](https://github.com/HrithikMittal/Hacktoberfest2k19/).
-7. Congratulations!! You have successfully created your pull request.
+7. Congratulations!! You have successfully created your first pull request.
 8. Check your progress here (https://hacktoberfest.digitalocean.com/profile)
 9. Wait for your t-shirt.
 
-Regards,
-Adhikansh Mittal
+Regards, Adhikansh Mittal
