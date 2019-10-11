@@ -1,4 +1,5 @@
 # Contributors
+
 <ol>
   <li>Raghav Jindal</li>
   <li>Sarthak Narang</li>
@@ -15,6 +16,3 @@
   <li>Arpit Choudhary</li>
    <li>Sujith Akshay</li>
 </ol>
-
-     
-
