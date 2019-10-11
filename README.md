@@ -22,3 +22,8 @@ git push origin master
 9. Wait for your t-shirt.
 
 Regards, Adhikansh Mittal
+
+# How to do?
+### Watch this video to learn how to Create a Pull Request.
+
+[![Watch the video](https://github.com/HrithikMittal/Hacktoberfest2k19/blob/master/video.png)](https://youtu.be/4HlkuXblCfI)
