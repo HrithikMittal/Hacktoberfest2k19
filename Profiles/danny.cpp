@@ -1,7 +1,6 @@
-#include<iostream.h>
-int main()
-{
-    cout<<"El Camino";
+#include <iostream.h>
+int main() {
+  cout << "El Camino";
 
-    return 0;
+  return 0;
 }
