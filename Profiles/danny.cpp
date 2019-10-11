@@ -1,7 +1,7 @@
 #include<iostream.h>
 int main()
 {
-	cout<<"El Camino";
+    cout<<"El Camino";
 
-	return 0;
+    return 0;
 }
