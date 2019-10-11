@@ -1,14 +1,14 @@
 #include<iostream>
 using namespace std;
 
-int bubble_sort_swap(int array[],int size){
+int bubble_sort_swap(int array[],int size) {
 
     int swap =0;
-    for(int i = size-2;i>=0;i--){
-        for(int j=0;j<=i;j++){
+    for(int i = size-2; i>=0; i--) {
+        for(int j=0; j<=i; j++) {
 
-            if(array[j] >array[j+1]){
-                
+            if(array[j] >array[j+1]) {
+
                 swap++;
                 // cout<<"Swap:"<<swap<<endl;
                 int temp = array[j];
@@ -23,7 +23,7 @@ int bubble_sort_swap(int array[],int size){
 
 
 
-int main(){
+int main() {
     int tc;
     scanf("%d",&tc);
 
@@ -31,10 +31,10 @@ int main(){
 
     int answer;
 
-    for(int test=0;test< (tc);test++){
+    for(int test=0; test< (tc); test++) {
         scanf("%d",&size);
         int array[size];
-        for(int i=0;i<size;i++){
+        for(int i=0; i<size; i++) {
             scanf("%d",&array[i]);
         }
 
@@ -44,10 +44,10 @@ int main(){
 
         answer = bubble_sort_swap(array,size);
         printf("%d \n",answer);
-    
+
     }
 
-    
+
 
 
     return 0;
