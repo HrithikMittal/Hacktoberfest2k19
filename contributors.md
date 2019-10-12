@@ -14,9 +14,10 @@
   <li>Vivek Chauhan</li>
   <li>Jitesh Kumar</li>
   <li>Arpit Choudhary</li>
-   <li>Sujith Akshay</li>
-   <li>Aadi S</li>
-   <li>Divanshi Sethi</li>
-   <li>Urmilla Kalita</li>
-    <li>Tej</li>
+  <li>Sujith Akshay</li>
+  <li>Aadi S</li>
+  <li>Divanshi Sethi</li>
+  <li>Urmilla Kalita</li>
+  <li>Tej</li>
+  <li>Rishik</li>
 </ol>
