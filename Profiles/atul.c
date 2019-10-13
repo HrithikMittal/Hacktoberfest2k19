@@ -1,3 +1,4 @@
+
 //flip 2 degit number
 #include<stdio.h>
 int main()
@@ -9,5 +10,17 @@ int main()
     c=a/10;
     d=10*b+c;
     printf("%d",d);
+
+#include<stdio.h>
+int main()
+{
+    int a;
+    printf("enter a number");
+    scanf("%d",a);
+    if(a%2==0)
+    printf("%d is even",a);
+    else
+    printf("%d is odd",a);
+
     return 0;
 }
