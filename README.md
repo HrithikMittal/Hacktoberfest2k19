@@ -1,12 +1,12 @@
 # Welcome to HacktoberFest 2019!
 
 ### Important Notice
-Please don't forget to add your name in contributors.md file (https://github.com/HrithikMittal/Hacktoberfest2k19/blob/master/contributors.md)
+#### Please don't forget to add your name in contributors.md file (https://github.com/HrithikMittal/Hacktoberfest2k19/blob/master/contributors.md)
 
-
+### How to do?
 Firstly you have to register here: https://hacktoberfest.digitalocean.com/
-
-- Follow these steps to make your first pull request-
+<br/>
+Follow these steps to make your first pull request-
 
 1. Fork this repository.
 2. Clone your forked repository to your local machine.
