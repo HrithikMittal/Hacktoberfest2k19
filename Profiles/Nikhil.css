@@ -1,0 +1,64 @@
+body{
+    background: url(image-1.png) no-repeat;
+    background-size: cover;
+
+}
+p{
+    width: 50%;
+    margin-left: 400px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: aliceblue;
+    border: 2px solid;
+    padding: 5px;
+    
+}
+p:hover{
+        margin-left: 400px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #FF00AA;
+}
+li{
+        width: 50%;
+    margin-left: 400px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: aliceblue;
+}
+li:hover{
+            margin-left: 400px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #FF00AA;
+    
+}
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    margin-top: 40px;
+    font-size: 60px;
+    color: azure;
+    padding: 30px;
+    padding-left: 60px;
+}
+h2{
+            width: 50%;
+    margin-left: 400px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: aliceblue;
+    
+}
+hr{
+    width: 51%;
+    margin-left: 400px;
+    border: 2px solid white;
+}
+a{
+    margin-left: 600px;
+    font-size: 50px;
+    color: white;
+}
+a:hover{
+    color: #FF00AA;
+}
+.second{
+    font-size: 30px;
+    margin-left: 510px;
+}
