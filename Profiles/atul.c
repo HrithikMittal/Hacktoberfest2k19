@@ -3,6 +3,7 @@
 int main()
 {
     int a,b,c;
+
     printf("enter 1at num");
     scanf("%d",&a);
     printf("enter 2nd num");
@@ -19,6 +20,15 @@ int main()
     scanf("%d",&a);
     b=a%10;
     c=a/10;
+
+    if ((b+c)>10)
+{
+    printf("success");
+}
+    else
+{
+    printf("not success");
+}
     d=10*b+c;
     printf("%d",d);
 
