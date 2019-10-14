@@ -31,6 +31,7 @@ class Example{
 ```
 
 #### Scala
+```
 object Example
 {
     def main(args: Array[String])
@@ -38,6 +39,13 @@ object Example
         println("Hello World!")
     }
 }
+```
+
+#### Swift
+```
+import Swift
+print("Hello, World!")
+```
 
 #### Python
 ```
