@@ -29,4 +29,5 @@
   <li>Yash Raj</li>
   <li>Debajit Datta</li>
   <li>Sanchi Chopra</li>
+  <li>Borja Giraldez</li>
 </ol>
