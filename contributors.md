@@ -28,4 +28,5 @@
   <li>vaishnavi manambat kaloor</li>
   <li>Yash Raj</li>
   <li>Debajit Datta</li>
+  <li>Sanchi Chopra</li>
 </ol>
