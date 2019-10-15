@@ -32,4 +32,7 @@
   <li>Borja Giraldez</li>
   <li>Justin McCarthy</li>
   <li>sShreyans Jain</li>
+  <li>Vishesh Sharma</li>
+  <li>Omang Rawat</li>
+
 </ol>
