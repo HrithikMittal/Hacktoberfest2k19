@@ -31,6 +31,7 @@
   <li>Sanchi Chopra</li>
   <li>Borja Giraldez</li>
   <li>Justin McCarthy</li>
+  <li>Sudhanshu Kumar</li>
   <li>sShreyans Jain</li>
   <li>Vishesh Sharma</li>
   <li>Omang Rawat</li>
