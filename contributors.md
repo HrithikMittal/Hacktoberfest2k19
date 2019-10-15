@@ -31,4 +31,5 @@
   <li>Sanchi Chopra</li>
   <li>Borja Giraldez</li>
   <li>Justin McCarthy</li>
+  <li>Omang Rawat</li>
 </ol>
