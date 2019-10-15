@@ -35,5 +35,6 @@
   <li>sShreyans Jain</li>
   <li>Vishesh Sharma</li>
   <li>Omang Rawat</li>
+  <li>Mayur Rajwani</li>
 
 </ol>
