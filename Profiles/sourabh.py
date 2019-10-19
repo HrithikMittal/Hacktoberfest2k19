@@ -1,0 +1,5 @@
+arr = map(int, input().split())
+arr = list(arr)
+arr = list(dict.fromkeys(arr))
+arr.sort()
+print(arr[-2])
