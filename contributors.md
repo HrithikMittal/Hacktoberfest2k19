@@ -36,10 +36,11 @@
   <li>Vishesh Sharma</li>
   <li>Omang Rawat</li>
   <li>Mayur Rajwani</li>
+  <li>Sourabh Gehlot</li>
   <li>Jose Luis</li>
   <li>Divyansh</li>
-    <li>Shriya</li>
-    <li>Nidhi B</li>
+  <li>Shriya</li>
+  <li>Nidhi B</li>
 
     
 
