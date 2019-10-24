@@ -47,4 +47,5 @@
   <li>Shubham Arora</li>
   <li>Prashant Agheda</li>
   <li>Hemish Veeraboina</li>
+  <li>Ryan McGuire</li>
 </ol>
