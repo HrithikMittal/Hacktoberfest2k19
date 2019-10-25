@@ -48,4 +48,5 @@
   <li>Prashant Agheda</li>
   <li>Hemish Veeraboina</li>
   <li>Ryan McGuire</li>
+  <li>Amit Kumar</li>
 </ol>
