@@ -1,6 +1,7 @@
 # Contributors
 
 <ol>
+  <li>Abhinav Goswami<li>
   <li>Raghav Jindal</li>
   <li>Sarthak Narang</li>
   <li>Arjun Sanjeev</li>
