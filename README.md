@@ -1,3 +1,5 @@
+# Please don't create PR in this repo. This is mark as spam and if you want to create PR please check this repo (https://github.com/HrithikMittal/Hacktoberfest2k20)
+
 # Welcome to HacktoberFest 2019!
 
 ### Important Notice
