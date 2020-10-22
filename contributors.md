@@ -25,6 +25,7 @@
   <li>Elyse Segebart</li>
   <li>Isha yadav </li>
   <li>Richa</li>
+  <li>Anusha</li>
   <li>vaishnavi manambat kaloor</li>
   <li>Yash Raj</li>
   <li>Debajit Datta</li>
