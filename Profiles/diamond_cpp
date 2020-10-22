@@ -1,0 +1,24 @@
+#include<iostream>
+#include<vector>
+using namespace std;
+int main(int arr, char** ch){
+	int n;
+	cin>>n;
+	vector<int>arr(n ,0);
+	for (int i=0; i<n; i++){
+		cin>>arr[i];
+
+	}
+	for(int i=0;i<n; i++){
+		for(int j=i+1; j<n; j++){
+			if(arr[i]>arr[j]){
+				swap(arr[i],arr[j]);
+				int bound=0;
+				bound++;
+			}
+		}
+	}
+	for(int p=0; p<n; p++){
+		cout<<arr[p];
+	}
+}
